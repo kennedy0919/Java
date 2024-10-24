@@ -12,4 +12,13 @@ Thumbs.db
 # Log files
 *.log
 
-
+# Windows-specific system directories
+AppData/
+Application Data/
+Cookies/
+Documents/My Music/
+Documents/My Pictures/
+Documents/My Videos/
+Local Settings/
+My Documents/
+NetHood/
